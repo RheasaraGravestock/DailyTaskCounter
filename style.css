@@ -20,4 +20,6 @@ p {
     border-radius: 8px;
     font-size: 13px;
     border: none;
+    display: block;
+    margin: 0 auto;
 }
